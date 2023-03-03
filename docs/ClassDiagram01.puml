@@ -1,0 +1,4 @@
+@startuml Diagramma
+A -> BackgroundColor
+B -> White
+@enduml
